@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Reidevl/rn-lens/releases/download/v0.1.0/rnlens_0.1.0_windows_amd64.zip",
+            "bin": [
+                "rnlens.exe"
+            ],
+            "hash": "3b4528aaee2ebc3b85de4928f2bed5a9955b3e5daa8af473df38ab3968f2cc9c"
+        },
+        "arm64": {
+            "url": "https://github.com/Reidevl/rn-lens/releases/download/v0.1.0/rnlens_0.1.0_windows_arm64.zip",
+            "bin": [
+                "rnlens.exe"
+            ],
+            "hash": "1cf3e10b760a42297b0dcf00e56525229ece26076f3c4a5dff73d82a681c848b"
+        }
+    },
+    "homepage": "https://github.com/Reidevl/rn-lens",
+    "license": "MIT",
+    "description": "React Native DevTools in the browser (Lens server build)"
+}
