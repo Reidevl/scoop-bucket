@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Reidevl/rn-lens/releases/download/v0.1.1/rnlens_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/Reidevl/rn-lens/releases/download/v0.1.2/rnlens_0.1.2_windows_amd64.zip",
             "bin": [
                 "rnlens.exe"
             ],
-            "hash": "43fc57c3f7d8076d07cfdc72fbae44e4f2471355bab21c07d58d2afd126b0802"
+            "hash": "c698139771e808073caadad2560026411fc40060d1af4ea9f3cc56324f4d00e2"
         },
         "arm64": {
-            "url": "https://github.com/Reidevl/rn-lens/releases/download/v0.1.1/rnlens_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/Reidevl/rn-lens/releases/download/v0.1.2/rnlens_0.1.2_windows_arm64.zip",
             "bin": [
                 "rnlens.exe"
             ],
-            "hash": "c8ff32e76d6d3936816a81ab1f50eecc1adf86cea5aaf4e440404aeab165cf2d"
+            "hash": "96d00620bfe360efab8bf3452c043242c3b694ee3b6ee99a7242a11fd2e80b5e"
         }
     },
     "homepage": "https://github.com/Reidevl/rn-lens",
